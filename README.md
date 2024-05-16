@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiprexDev
+- 👋 Hi, I’m @Kiprex
 - 👀 I’m interested in making games and mods
 - 🌱 I’m currently learning Python, PHP, Javascrypt and Java
 - 💞️ I’m looking to collaborate on something
